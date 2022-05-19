@@ -46,5 +46,10 @@
           "aspects": ["invalidHref", "preferButton"]
         }
       ]
+    },
+    "settings": {
+      "import/resolver": {
+        "typescript": {}
+      }
     }
 }
